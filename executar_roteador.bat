@@ -1,0 +1,2 @@
+python roteador_simbolico.py
+pause
